@@ -1,4 +1,4 @@
-# InventoryApp1
+# InventoryApp :information_source:
 This project is part of the android basics nanodegree course, the project covers a lot of aspects as:
 
 * Storing information in a SQLite database
