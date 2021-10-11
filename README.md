@@ -8,4 +8,4 @@ This project is part of the android basics nanodegree course, the project covers
 * Updating information based on user input
 * Creating intents to other apps using stored information
 
-![screenshot] (https://github.com/abeerqqq/InventoryApp1/blob/master/Picture9.png)
+![screenshot](https://github.com/abeerqqq/InventoryApp1/blob/master/Picture9.png)
