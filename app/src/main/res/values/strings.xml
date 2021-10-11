@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InventoryApp2</string>
+    <string name="product_name">Product Name</string>
+    <string name="hint_product_name">name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="hint_price">price</string>
+    <string name="hint_quantity">quantity</string>
+    <string name="hint_phone_number">phone number</string>
+    <string name="unknown">Unknown</string>
+    <string name="jarir">Jarir</string>
+    <string name="jamloon">Jamloon</string>
+    <string name="elmarefa">Elmarefa</string>
+    <string name="action_save">Save</string>
+    <string name="supplierName">Supplier Name</string>
+    <string name="supplierPhone">Supplier Phone Number</string>
+    <string name="empty_view_title_text">Ops! There\'s no products ..</string>
+    <string name="empty_view_subtitle_text">Try adding new products</string>
+    <string name="editor_activity_title_new_product">Add Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="editor_insert_product_failed">Error accured when saving the product</string>
+    <string name="editor_insert_product_successful">product saved</string>
+    <string name="editor_update_product_failed">Error occured when updating the product</string>
+    <string name="editor_update_product_successful">Product updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editting</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_dialog_msg">Are you sure you want to delete this Product ?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_failed">Couldn\'t delete the product</string>
+    <string name="editor_delete_product_successful">The product deleted</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
+    <string name="delete_all_dialog_msg">Are you sure you want to delete all products?</string>
+</resources>

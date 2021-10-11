@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/productName"
+        style="@style/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Product Name" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="15dp"
+            android:text="@string/price" />
+
+        <TextView
+            android:id="@+id/productPrice"
+            style="@style/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="12dp"
+            android:text="@string/price" />
+
+        <TextView
+            style="@style/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="12dp"
+            android:text="@string/quantity" />
+
+        <TextView
+            android:id="@+id/productQuantity"
+            style="@style/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="7dp"
+            android:text="@string/quantity" />
+
+        <Button
+            android:id="@+id/saleButton"
+            android:layout_width="58dp"
+            android:layout_height="40dp"
+            android:focusable="false"
+            android:text="Sale" />
+
+    </LinearLayout>
+
+</LinearLayout>
